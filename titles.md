@@ -1,8 +1,1 @@
-# Titles
-
-* A River Runs Through It
-* Fight Club
-* 12 Years a Slave
-* The Big Short
-* 12 Monkeys
-* The Curious Case of Benjamin Button
+# Titles\n\n* A River Runs Through It\n* Fight Club\n* 12 Years a Slave\n* The Big Short\n* 12 Monkeys\n* The Curious Case of Benjamin Button
